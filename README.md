@@ -1,1 +1,1 @@
-# Data collectore for log aggregation
+# Data Collector for log aggregation
